@@ -1,4 +1,3 @@
 # README #
 
-## Table of Contents
-- example_file.txt
+Bye bye Table of Contents!
